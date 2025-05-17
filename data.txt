@@ -1,0 +1,10 @@
+2200
+10000
+10000
+២០០០០
+Four | បួន | 4
+Ten Thousand | ដប់ ពាន់ | 10000
+Eleven | ដប់មួយ | 11
+Ten Million | ដប់ លាន | 10000000
+Ten Million | ដប់ លាន | 10000000
+Ten Thousand Million | ដប់ ពាន់ លាន | 10000000000
